@@ -1,0 +1,18 @@
+body {
+    font-family: 'Lobster', cursive;
+    background: #E1E2E1;
+    color: #fff;
+}
+
+.container{
+	padding: 20px;
+	text-align: center;
+}
+
+.col-sm{
+	border-radius: 5%;	
+}
+
+h1{
+	    font-family: 'Lobster', cursive;
+}
